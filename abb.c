@@ -1,5 +1,5 @@
 # include <stdio.h>
 
 void main(){
-	printf("Thu sua lai");
+	printf("Thu sua");
 }	
