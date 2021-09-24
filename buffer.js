@@ -1,4 +1,4 @@
-var buffer = new Buffer ("Xinh zậy","utf-8")
+var buffer = new Buffer ("Xinh meo j","utf-8")
 
 
 
